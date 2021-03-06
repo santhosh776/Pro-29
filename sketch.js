@@ -61,7 +61,7 @@ function draw() {
   ground1.display();
   ground2.display();
 
-  text("Drag The Hexagon Stone And Release It,To Launch It Towards The Blocks",650,50)
+  text("Drag The Hexagonal Stone And Release It,To Launch It Towards The Blocks",650,50)
   textSize(24);
   
 }
